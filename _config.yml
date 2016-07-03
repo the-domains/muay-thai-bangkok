@@ -1,0 +1,28 @@
+name: muay-thai-bangkok
+favicon: null
+layout_spectrum: 0.7186070268508047
+typography_spectrum: 0.3142086248844862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11057100957259536
+  lightness: 0.5767364893108606
+  saturation: 0.5886228100862354
+  rhythmicContrast: 0.7570848010946065
+purpose: []
